@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name:ASUS-LAPTOP
+  name:default
 
 steps:
 - task: Maven@3
